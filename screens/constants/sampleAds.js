@@ -1,0 +1,42 @@
+// data/sampleAds.js
+export const SAMPLE_ADS = [
+  {
+    id: 1,
+    title: 'MG HS PHEV',
+    price: '102 lacs',
+    year: '2021',
+    mileage: '28,376 km',
+    fuelType: 'Hybrid',
+    location: 'Islamabad',
+    imageCount: 14,
+    rating: '9.8',
+    isNew: false,
+    isFeatured: true,
+  },
+  {
+    id: 2,
+    title: 'Suzuki Swift DLX 1.3',
+    price: '23 lacs',
+    year: '2015',
+    mileage: '113,640 km',
+    fuelType: 'Petrol',
+    location: 'Islamabad',
+    imageCount: 14,
+    rating: '7.8',
+    isNew: true,
+    isFeatured: false,
+  },
+  {
+    id: 3,
+    title: 'Nissan Kicks',
+    price: '72 lacs',
+    year: '2021',
+    mileage: '28,376 km',
+    fuelType: 'Petrol',
+    location: 'Islamabad',
+    imageCount: 14,
+    rating: '8.5',
+    isNew: true,
+    isFeatured: false,
+  }
+];

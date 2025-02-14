@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "KSA4Sale",
+    "slug": "KSA4Sale",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/adaptive-icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/adaptive-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.alihassan12345.salecomclassified"
+    },
+    "web": {
+      "favicon": "./assets/adaptive-icon.png"
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#ffffff",
+      "barStyle": "dark-content"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e0ab41b5-834b-42d8-8800-46886fb6b5cd"
+      }
+    },
+    "owner": "arfadevelopers"
+  }
+}
